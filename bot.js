@@ -1,8 +1,8 @@
-const discord = require(*discord.js*) 
+const discord = require('discord.js') 
 const client = new Discord.Client() 
 
 
-console.log(*hello*) 
+console.log('hello') 
 
 
 
